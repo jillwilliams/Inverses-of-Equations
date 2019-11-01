@@ -1,0 +1,76 @@
+body {
+    font-family: "Shadows Into Light", cursive;
+    background-image: linear-gradient(yellow, red);
+    letter-spacing: 3px;
+    margin: 15px 25px 45px 25px;
+    font-size: 2rem;
+
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+
+}
+h2 {
+    font-size: 1.5rem;
+}
+#img1 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 1px yellow solid;
+}
+#img2 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 1px yellow solid;
+}
+#img3 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 1px yellow solid;
+}
+#myBtn, #myBtn1, #myBtn2 {
+    width: 20%;
+    height: auto;
+    font-size: 2rem;
+    font-family: "Long Cang", cursive;
+    background-color: black;
+    color: red;
+    text-shadow: 1px 1px 2px white;
+    padding: 15px;
+    text-align: center;
+    margin-left: 40%;
+    margin-left: 40%;
+}
+#myBtn:hover, #myBtn1:hover, #myBtn2:hover {
+    background-color: white;
+    color: black;
+    text-shadow: 1px 1px 2px red;
+}
+#demo, #demo1, #demo2 {
+    width: 18%;
+    height: 60px;
+    font-size: 2rem;
+    font-family: "Long Cang", cursive;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin-left: 40%;
+    margin-left: 40%;
+    border: 1px white solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 45px;
+}
