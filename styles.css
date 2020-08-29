@@ -4,12 +4,10 @@ body {
     letter-spacing: 3px;
     margin: 15px 25px 45px 25px;
     font-size: 2rem;
-
 }
 h1 {
     text-align: center;
     font-size: 2rem;
-
 }
 h2 {
     font-size: 1.5rem;
@@ -67,6 +65,10 @@ h2 {
     text-align: center;
     margin-left: 40%;
     margin-left: 40%;
+    border: 1px white solid;
+}
+iframe {
+    margin: 15px 33%;
     border: 1px white solid;
 }
 footer {
